@@ -1,4 +1,7 @@
 
+# update 2022-09-01
+If you find this repo interesting, I **strongly** suggest that you check out https://github.com/ihomelab/dnn4nilm_overview and the accompaigning publication [Review on Deep Neural Networks Applied to Low-Frequency NILM](doi.org/10.3390/en14092390.) that compile a *much* more extensive list of publications. This repo will not be updated.
+
 # List of Low Frequency NILM publications employing DNNs
 
 In order to spare anybody interested in low frequency NILM (i.e. sampling >= 1sec) the arduous task of finding related work, I compiled the following list. Please feel free to pull requests or open an issue.
